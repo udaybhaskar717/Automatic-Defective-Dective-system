@@ -1,4 +1,4 @@
-# Industrial Defect Detection Dataset
+# Automatic Defect Detection Dataset
 
 This dataset consists of images of industrial components categorized into 15 different categories. Each category includes both defective and non-defective samples, with ground truth masks provided for defective samples in the test set. The dataset is designed for tasks such as defect detection, classification, and segmentation.
 
